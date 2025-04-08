@@ -1,52 +1,72 @@
 #include <iostream>
+#include <vector>
 
 class Algorithms {
     public:
-        void BubbleSort() {
+
+        // =======================================================================
+        // Bubble Sort
+        // =======================================================================
+        std::vector<int> BubbleSort(std::vector<int> arr) {
 
         }
-        
-        void BubbleSort(bool longOuput) {
+
+        std::vector<int> BubbleSort(std::vector<int> arr, bool longOuput) {
             
         }
 
-        void QuickSort() {
+        // =======================================================================
+        // Quick Sort
+        // =======================================================================
+        std::vector<int> QuickSort(std::vector<int> arr) {
 
         }
         
-        void QuickSort(bool longOuput) {
+        std::vector<int> QuickSort(std::vector<int> arr, bool longOuput) {
             
         }
 
-        void MergeSort() {
+        // =======================================================================
+        // Merge Sort
+        // =======================================================================
+        std::vector<int> MergeSort(std::vector<int> arr) {
 
         }
         
-        void MergeSort(bool longOuput) {
+        std::vector<int> MergeSort(std::vector<int> arr, bool longOuput) {
             
         }
 
-        void InsertionSort() {
+        // =======================================================================
+        // Insertion Sort
+        // =======================================================================
+        std::vector<int> InsertionSort(std::vector<int> arr) {
 
         }
         
-        void InsertionSort(bool longOuput) {
+        std::vector<int> InsertionSort(std::vector<int> arr, bool longOuput) {
             
         }
 
-        void SelectionSort() {
+        // =======================================================================
+        // Selection Sort
+        // =======================================================================
+        std::vector<int> SelectionSort(std::vector<int> arr) {
 
         }
         
-        void SelectionSort(bool longOuput) {
+        std::vector<int> SelectionSort(std::vector<int> arr, bool longOuput) {
             
         }
 
-        void HeapSort() {
+        // =======================================================================
+        // Heap Sort
+        // =======================================================================
+        std::vector<int> HeapSort(std::vector<int> arr) {
 
         }
         
-        void HeapSort(bool longOuput) {
+        std::vector<int> HeapSort(std::vector<int> arr, bool longOuput) {
             
         }
 
